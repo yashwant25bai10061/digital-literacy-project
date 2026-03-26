@@ -1,9 +1,9 @@
 # Digital Literacy Project Portfolio
 
 **Course Code:** CSE0001  
-**Course Title:** Digital Literacy
+**Course Title:** Digital Literacy                
 **Student Name:** Yashwant Ravindra Sonawane  
-**Registration Number:** 25BAI10061
+**Registration Number:** 25BAI10061           
 **Branch & Year:** B.Tech CSE (AI & ML), 1st Year
 
 ---
