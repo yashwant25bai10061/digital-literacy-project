@@ -18,24 +18,24 @@ This repository contains five distinct tasks mapping to the core modules of this
 
 ### Task 1: Create a Digital Literacy Awareness Infographic
 I created an infographic using Canva to define digital literacy and highlight safe internet practices.     
-**Deliverable Folder:** `task-1-presentation/`
+**Deliverable Folder:** [View Folder]`task-1-presentation/`
 
 ### Task 2: Build Your Student Digital Portfolio
 I established a foundational professional presence by setting up and optimizing profiles on GitHub, LinkedIn, and Kaggle.      
-**Deliverable Folder:** `task-2-portfolio/`
+**Deliverable Folder:** [View Folder] `task-2-portfolio/`
 
 ### Task 3: Explore Coding & Collaboration Platforms 
 I demonstrated technical proficiency by completing a challenge on HackerRank and creating a digital literacy quiz using Google Forms     
 **Quiz Link:** https://forms.gle/jiEiKW3hUfMJFQW46     
-**Deliverable Folder:** `task-3-platforms/`
+**Deliverable Folder:** [View Folder] `task-3-platforms/`
 
 ### Task 4: Draft a Professional Email & Etiquette Guide
 I drafted professional emails for academic and career scenarios and developed a "Social Media Do’s and Don’ts" checklist     
-**Deliverable Folder:** `task-4-email-etiquette/` 
+**Deliverable Folder:** [View Folder] `task-4-email-etiquette/` 
 
 ### Task 5: Cybercrime Awareness Case Study & Prevention Guide
 I conducted a case study on cyber threats and produced a "Stay Safe Online" prevention guide specifically for students in India.      
-**Deliverable Folder:** `task-5-cybercrime/`
+**Deliverable Folder:** [View Folder]`task-5-cybercrime/`
 
 ---
 
