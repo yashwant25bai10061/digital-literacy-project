@@ -40,7 +40,7 @@ I conducted a case study on cyber threats and produced a "Stay Safe Online" prev
 ---
 
 ## Repository Structure
-According to the project brief, this repository is organized as follows:
+This repository is organized as follows:
 
 * `README.md`: Project overview and module summaries (this file).
 * `report/`: Contains the full written `Project_Report.pdf`.
